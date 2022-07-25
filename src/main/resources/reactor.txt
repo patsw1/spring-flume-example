@@ -1,0 +1,6 @@
+			"reactor.util.Loggers": {
+			   "AppenderRef": {
+			        "ref": "Console"
+			        },
+			        "level": "info"
+			}
